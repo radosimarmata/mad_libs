@@ -1,1 +1,2 @@
-"# mad_libs" 
+## Deskripsi
+Selamat datang di proyek permainan Mad Libs! Mad Libs adalah permainan yang mengasyikkan dan kreatif di mana pemain mengisi kata-kata kosong dalam sebuah cerita untuk menciptakan hasil yang lucu dan tidak terduga. Proyek ini bertujuan untuk membantu pemula dalam mempelajari dasar-dasar pemrograman Python dengan cara yang menyenangkan.
